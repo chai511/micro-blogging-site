@@ -56,6 +56,7 @@ body {
 }
 
 .main {
+  max-width: screenwidth;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
